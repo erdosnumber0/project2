@@ -3,6 +3,6 @@ project 2
 ----------------------
 ![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/project2/blob/master/dataset/project2.png)
 
-- (https://github.com/erdosnumber0/project2)
+- (https://www.slideshare.net/secret/GKYPRluBlVnRmr)
 
 -----------------
