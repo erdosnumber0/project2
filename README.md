@@ -1,7 +1,12 @@
 # project2
 T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발
 ----------------------
-![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/project2/blob/master/dataset/project2.png)
+
+<img src="https://github.com/erdosnumber0/project2/blob/master/practice/%EC%8B%9C%EC%97%B0%20gif.gif"/>
+
+<video src='https://github.com/erdosnumber0/project2/blob/master/practice/NA1_%EB%8D%B0%EB%AA%A8%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4'>
+</video>
+
 
 - ppt: (https://www.slideshare.net/secret/GKYPRluBlVnRmr)
 
@@ -44,3 +49,4 @@ T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발
 - LightGBM 사용: flask 구현 시, 속도가 가장 빠르고 평가지표 점수가 가장 높음.
 - 평가 지표 precision 사용: 위법물이라고 판단한 사례 중 실제 위법물의 비율은 어느 정도인가? 현실적으로 의심되는 모든 상자를 열기 어렵다. \
   그러므로 precision을 중심 지표로 삼고, 이 후 파라미터 튜닝을 통해 recall 개선.
+- Flask 웹 구현
