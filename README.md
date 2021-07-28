@@ -23,7 +23,7 @@ T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발
 - Stack
 ```
 * 사용 언어: Python, SQL
-* OS 및 DB  : windows10, DataGrip, SQL developer
+* OS 및 DB Tool : windows10, DataGrip, SQL developer
 * 사용 Tool : Jupyter Notebook, VSCode, Pycharm, Colab
 * 라이브러리: Pandas, Numpy, Matplotlib, Plotly, Seaborn, statsmodels, Scikit-learn, Keras, Tensorflow
 * 프레임워크: django
