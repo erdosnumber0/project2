@@ -10,6 +10,8 @@ T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발
 
 - ppt: (https://www.slideshare.net/secret/GKYPRluBlVnRmr)
 
+
+
 -----------------
 
 ### 1. About: 
@@ -18,6 +20,14 @@ T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발
 - 팀장: 예상일
 - 팀원: 전정재, 이보람, 안아련
 - 작업 기간: 21.03.29 ~ 21.05.09
+- Stack
+```
+* 사용 언어: Python, SQL
+* OS 및 DB : windows10, DataGrip, SQL developer
+* 사용 Tool : Jupyter Notebook, VSCode, Pycharm, Colab
+* 라이브러리: Pandas, Numpy, Matplotlib, Plotly, Seaborn, statsmodels, Scikit-learn, Keras, Tensorflow
+* 프레임워크: django
+```
 
 ----------------------------
 
