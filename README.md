@@ -25,7 +25,7 @@ T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발
 - Language: Python, SQL
 - IDE : DataGrip, SQL developer,Jupyter Notebook, VSCode, Pycharm, Colab
 - Library: Pandas, Numpy, Matplotlib, Plotly, Seaborn, statsmodels, Scikit-learn, Keras, Tensorflow
-- Framework: django
+- Framework: 
 ```
 
 ----------------------------
