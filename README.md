@@ -23,7 +23,7 @@
 - IDE : DataGrip, SQL developer,Jupyter Notebook, VSCode, Pycharm, Colab
 - Library: Pandas, Numpy, Matplotlib, Plotly, Seaborn, statsmodels, 
            Scikit-learn, Keras, Tensorflow
-- Framework: 
+- Framework: Flask
 ```
 
 
