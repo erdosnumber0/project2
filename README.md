@@ -17,7 +17,7 @@
 - 팀장: 예상일
 - 팀원: 전정재, 이보람, 안아련
 - 작업 기간: 21.03.29 ~ 21.05.09
-- Stack
+- Stacks
 ```
 - Language: Python, SQL
 - IDE : DataGrip, SQL developer,Jupyter Notebook, VSCode, Pycharm, Colab
@@ -51,9 +51,14 @@
 
 
 ### 결론:
-- Train_test_split의 stratify=y 파라미터를 사용하여 클래스의 비율을 유지.
-- LightGBM 사용: flask 구현 시, 속도가 가장 빠르고 평가지표 점수가 가장 높음.
-- 평가 지표 precision 사용: 위법물이라고 판단한 사례 중 실제 위법물의 비율은 어느 정도인가? \
+- Train_test_split의 **stratify=y 파라미터를 사용하여 클래스의 비율을 유지**.
+- **LightGBM 사용**: flask 구현 시, 속도가 가장 빠르고 평가지표 점수가 가장 높음.
+- 평가 지표 **precision** 사용: 위법물이라고 판단한 사례 중 실제 위법물의 비율은 어느 정도인가? \
   현실적으로 의심되는 모든 상자를 열기 어렵다. \
   그러므로 precision을 중심 지표로 삼고, 이 후 파라미터 튜닝을 통해 recall 개선.
-- Flask 웹 구현
+- Flask로 웹 제작 
+
+
+### 개선할 점:
+- 많은 노력에도 불구하고 여전한 과적합.
+- 구현된 페이지는 저장된 pkl 파일을 사용, 데이터베이스에서 바로 추출할 수 있도록 개선해야 함.
