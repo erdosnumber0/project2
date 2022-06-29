@@ -45,7 +45,8 @@
 - Oversampling: 범주형 변수에서 없던 숫자가 생성되는 데이터 왜곡 발생. \
   Undersampling: 소수의 샘플링 된 데이터가 전체를 대표할 만하다고 보기 어렵다. \
   Boost 알고리즘, *scale_pos_weight* 파라미터를 사용했지만 성능지표가 떨어진다.
-- 계통 추출법: StratifiedKfold와 train_test_split의 파라미터(stratify=y)를 사용하여 불균형한 클래스를 일정하게 유지하려고 노력.
+- 계통 추출법: StratifiedKfold와 train_test_split의 파라미터(stratify=y)를 사용하여 불균형한 클래스를 일정하게 유지하려고 노력.\
+  (StratifiedKfold는 데이터 불균형은 해결했지만 성능이 좋지 않았음)
 - RandomForest, CatBoost, LightGBM, MLP, DNN 다양한 모델링 및 결과 비교.
 
 
